@@ -1,0 +1,80 @@
+#Image{
+    width: 400px;
+    border-radius: 50%;
+}
+#section{
+    background: linear-gradient(rgb(9, 213, 98),rgb(162, 18, 23),rgb(26, 159, 174));
+    height: 70%;
+    width: 100%;
+    position: absolute;
+}
+body{
+    margin: 0;
+    text-align: center;
+}
+#roblox2{
+    font-size: 35px;
+    text-decoration: wavy;
+    color: rgb(0, 255, 26);
+}
+.linea{
+    background-color: blueviolet;
+    width: 100%;
+    height: 8px;
+    margin: 8px;
+}
+#mario{
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #2d04fb;
+    padding: 50px;
+}
+#video{
+    width: 100%;
+}
+.pax-ter{
+    list-style: none;
+    position: absolute;
+    cursor: pointer;
+    top: 10px;
+    right: 30px;
+    background-color: rgb(247, 148, 1);
+    z-index: 10;
+}
+.vamos_alla{
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 25px;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    display: inline;
+}
+
+
+.vamos_alla{
+  font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+a{
+    text-decoration: none;
+    
+}
+.fotos{
+    width: 30%;
+}
+#section{
+    margin-top: 50px;
+}
+#pie_de_pagina{
+    height: 50px;
+    background-color: rgb(60, 0, 255);
+    vertical-align: middle;
+}
